@@ -31,3 +31,45 @@
     transform: rotate(360deg);
   }
 }
+
+.Container{
+  border: 1px solid black;
+}
+.grafico{
+  margin-top:50px;
+}
+
+.lateral{
+  border: 1px solid black;
+  height: 500px;
+}
+
+.coluna{
+  border: 1px solid orange;
+}
+
+.cimaGraficos{
+  background-color: orange;
+  margin-top: -16px;
+  margin-left: -12px;
+  margin-right: -12px;
+  height: 50px;
+}
+
+h5{
+  padding-top: 8px;
+  color: white;
+}
+
+.lateral-direita{
+  border: 1px solid black;
+}
+
+.alerta{
+  position: absolute;
+  right: 10px;
+  background-color: red;
+}
+.contas{
+  position: absolute;
+}
